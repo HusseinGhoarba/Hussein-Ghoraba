@@ -9,7 +9,7 @@ I'm Hussein Ghoraba a DevOps Engineer who graduated from a ITI-DevOps Engineerin
 
 #### DevOps Stack Tools:
 
-<img src="icons/Kubernetes.png" width=150>  <img src="icons/helm.png" width=100>    <img src="icons/docker.png" width=150>  <img src="icons/ansible.png" width=70>  <img src="icons/terraform.png" width=150>   <img src="icons/grafana.png" width=112>     <img src="icons/jenkins.png" width=110>     <img src="icons/sonarqube.png" width=150>   
+<img src="icons/Kubernetes.png" width=150>  <img src="icons/helm.png" width=100>    <img src="icons/docker.png" width=150>  <img src="icons/ansible.png" width=150>  <img src="icons/terraform.png" width=150>   <img src="icons/grafana.png" width=112>     <img src="icons/jenkins.png" width=150>     <img src="icons/sonarqube.png" width=170>   
 
 #### Cloud Providers:
 
