@@ -15,9 +15,13 @@ Additionally, I can keep up with and keep a watchful eye on your infrastructure 
 Thanks in advance,
 
 Hussein Ghoraba
-Jr. DevOps Engineer
+DevOps Engineer
+
+
 
 >> List of my technical skills: 
+
+
 
 #### DevOps Stack Tools:
 
